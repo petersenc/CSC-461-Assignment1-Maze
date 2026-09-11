@@ -6,6 +6,7 @@ This is a scene with 3 shapes and 3 different custom materials.
 ![scene1image](readmeimages/scene1.png)
 
 ## Scene 2 – Maze
+(Bonus 3: VR HMD Accessible)
 This is a VR scene with a character controller that you can control through a maze. Picking up the coin at the end of the maze makes a sound.
 
 *Note: the camera is not facing down, since tilting it down becomes extremely disorienting in VR.*
